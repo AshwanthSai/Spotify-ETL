@@ -6,8 +6,8 @@
 
 **Problem Statement** <br>
 <p>You are working with a Social Media and Talent Recognition Company. <br>
-Create a Database, from Spotify Top 50 Tracks, Scraping Daily for a year.
-Store the music, album and artist data seperately, so that the Talent Agency could swiftly contact the singers for partnerships. </p>
+Create a Database, scraping data from the Spotify Top 50 Tracks.
+Store the music, album and artist data seperately, the Talent Agency should be able to swiftly contact the singers for partnerships. </p>
 
 
 **Proposed Solution**<br>
